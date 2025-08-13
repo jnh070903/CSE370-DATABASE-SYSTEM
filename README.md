@@ -10,4 +10,4 @@
 <br>5.	Optimize database performance through indexing and query optimization.</br>
 
 ## **Playlist**
-<br> NNC YT Platlist:https://www.youtube.com/results?search_query=nnc+playlist+cse370</br>
+<br> NNC YT Playlist:https://www.youtube.com/results?search_query=nnc+playlist+cse370</br>
